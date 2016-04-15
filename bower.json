@@ -1,0 +1,14 @@
+{
+  "name": "dcylabs-gauge-js",
+  "description": "Gauge plugin",
+  "authors": [
+    "Dcylabs <dcylabs@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dcylabs/gauge.js",
+  "private": true,
+  "dependencies": {
+    "raphael": "^2.2.0",
+    "jquery": "^2.2.3"
+  }
+}
