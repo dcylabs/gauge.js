@@ -6,7 +6,7 @@
   ],
   "license": "MIT",
   "homepage": "https://github.com/dcylabs/gauge.js",
-  "private": true,
+  "private": false,
   "dependencies": {
     "raphael": "^2.2.0",
     "jquery": "^2.2.3"
